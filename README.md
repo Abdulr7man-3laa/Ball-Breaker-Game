@@ -2,7 +2,7 @@
 
 A classic arcade-style **Ball Breaker** (Brick Breaker) game built using **Java Swing**. Control the paddle, bounce the ball, and break all the bricks to win!
 
-![Game Over](assets/Game%20Over.png)
+![Start point](assets/Start%20point.png)
 
 ---
 
@@ -71,9 +71,10 @@ A classic arcade-style **Ball Breaker** (Brick Breaker) game built using **Java 
 
 ## 📸 Screenshots
 
-![[Start point.png]]
-![[Level 2.png]]
-![[Game Over.png]]
+
+![Start point](assets/Start%20point.png)
+![Level 2](assets/Level%202.png)
+![Game Over](assets/Game%20Over.png)
 
 ---
 
